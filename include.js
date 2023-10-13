@@ -2124,6 +2124,13 @@ let cards = [
     githubLink: 'https://github.com/parzivalafk'
   },
   {
+    artName: 'BmejiaDogCard',
+    pageLink: './Art/BmejiaDogCard/index.html',
+    imageLink: './Art/BmejiaDogCard/bmejia2.gif',
+    author: 'Bmejia',
+    githubLink: 'https://github.com/mejiab4494'
+  },
+  {
     artName: 'Moody Sunflower',
     pageLink: './Art/RoksolanaVeres/index.html',
     imageLink: './Art/RoksolanaVeres/moody-sunflower.gif',
